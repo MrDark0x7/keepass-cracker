@@ -28,7 +28,7 @@ git clone https://github.com/yourusername/keepass-cracker.git
 cd keepass-cracker
 chmod +x keepass_cracker.sh
 
-#Usage 🚀
+# Usage 🚀
 
 Interactive mode:
 
