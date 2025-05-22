@@ -17,7 +17,7 @@ A ethical password recovery tool for KeePass databases with interactive features
 - Bash 4.0+ environment
 
 ### Linux/Unix/macOS
-```bash
+
 # Install KeePassXC-CLI
 sudo apt install keepassxc  # Debian/Ubuntu
 sudo dnf install keepassxc  # Fedora
