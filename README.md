@@ -34,7 +34,7 @@ Interactive mode:
 
 ./keepass_cracker.sh
 
-#Options during execution:
+# Options during execution:
 
     Database path validation
 
@@ -46,7 +46,7 @@ Interactive mode:
 
     Color output toggle
 
-#Ethical Considerations ⚖️
+# Ethical Considerations ⚖️
 
 ⚠️ Important: This tool should only be used for:
 
@@ -56,7 +56,7 @@ Interactive mode:
 
     Security auditing with proper authorization
 
-#Version History 📜
+# Version History 📜
 
 v1.0 - Initial release with core functionality
 License 📄
@@ -66,7 +66,7 @@ Contributing 🤝
 
 Pull requests are welcome! Please open an issue first to discuss proposed changes.
 
-#FAQ ❓
+# FAQ ❓
 
 Q: Why is it slow?
 A: Password cracking is resource-intensive. Consider using optimized wordlists.
