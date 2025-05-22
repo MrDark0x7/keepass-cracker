@@ -1,0 +1,8 @@
+# System Requirements
+keepassxc >= 2.6.0
+bash >= 4.0
+coreutils >= 8.0
+
+# Recommended Wordlists
+rockyou.txt (included in Kali Linux)
+SecLists
