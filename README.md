@@ -2,8 +2,6 @@
 
 A ethical password recovery tool for KeePass databases with interactive features and progress tracking.
 
-![ASCII Art Header](assets/header.png)
-
 ## Features ✨
 - Interactive menu-driven interface
 - Real-time progress bar with statistics
